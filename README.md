@@ -34,8 +34,6 @@ Edge AI • Federated Learning • Distributed Systems • MLOps
 
 ---
 
-## 📈 GitHub Stats
-![Eswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eswar-jajjara&show_icons=true&theme=radical&hide_title=true)
 
 ---
 
